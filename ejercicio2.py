@@ -28,3 +28,5 @@ alumno2=Alumno()
 alumno2.inicio("Ruben",10)
 alumno2.constructorr()
 alumno2.calificacion()
+
+def __str__(self): return "Lo que quiero mostrar"
