@@ -30,3 +30,14 @@ alumno2.constructorr()
 alumno2.calificacion()
 
 def __str__(self): return "Lo que quiero mostrar"
+
+class alumno:
+    def __init__(self,nom,no):
+        self.nombre=nom
+        self.nota=no
+
+    def __str__(self):
+        cadena=self.nombre+","+self.nota
+        return cadena
+
+
