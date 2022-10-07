@@ -1,0 +1,4 @@
+class Camioneta():
+    pass
+
+
