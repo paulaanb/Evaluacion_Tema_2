@@ -15,3 +15,15 @@ class Alumno:
         else:
             print("Suspenso")
 
+
+# Bloque donde ponemos los ejemplos
+
+alumno1=Alumno()
+alumno1.inicio"Paula",2)
+alumno1.constructor()
+alumno1.calificacion()
+
+alumno2=Alumno()
+alumno2.inicio("Ruben",10)
+alumno2.constructorr()
+alumno2.calificacion()
