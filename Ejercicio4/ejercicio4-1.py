@@ -10,3 +10,15 @@ def division(a, b):
       print('¡No se puede dividir por cero!')
     else:
        print(result)
+
+#Otra forma de error
+try:
+    resultado = 10/0
+except ZeroDivisionError:
+    print("ERROR: división por cero")
+else:
+    print("División realizada correctamente")
+finally:
+    print("Fin del bloque try")
+ERROR: división por cero
+Fin del bloque try
