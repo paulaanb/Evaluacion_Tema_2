@@ -16,7 +16,7 @@ class Alumno:
             print("Suspenso")
 
 
-# Bloque donde ponemos los ejemplos
+# Bloque de experimentacion donde ponemos los ejemplos
 
 alumno1=Alumno()
 alumno1.inicio"Paula",2)
