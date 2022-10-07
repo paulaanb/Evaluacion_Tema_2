@@ -41,3 +41,9 @@ class alumno:
         return cadena
 
 
+#Bloque experimental donde ponemos los ejemplos
+ 
+alumno1=Alumno("Paula","2")
+alumno2=Alumno("Ruben","10")
+print(str(alumno1)+"-"+str(alumno2))  
+# La solucion que va a salir es la siguiente: Paula, 2- Ruben, 10
